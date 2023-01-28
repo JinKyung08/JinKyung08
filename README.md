@@ -19,8 +19,15 @@
 </p>
 
 
-<br><br><br><br><br>
-
+<br><br>
+<div align="center">
+  
 ![Jinkyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinkyung08&show_icons=true&theme=radical)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinkyung08&layout=compact)](https://github.com/JinKyung08/JinKyung08) -->
-![snake gif](https://github.com/YOUR_USERNAME/Jinkyung08/blob/output/github-contribution-grid-snake.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinkyung08&layout=compact)](https://github.com/JinKyung08/JinKyung08)
+
+</div>
+<br>
+
+<p align=center>
+  <img src="https://raw.githubusercontent.com/JinKyung08/JinKyung08/output/github-contribution-grid-snake.gif">
+</p>
