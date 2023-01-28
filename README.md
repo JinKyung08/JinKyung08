@@ -1,7 +1,5 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%20%F0%9F%91%8B,%20I%27m%20Jinkyung,%20welcome%20to%20my%20space🎵&height=200&width=1000)](https://github.com/JinKyung08)
 
-<!-- https://codepen.io/thiagoteles/pen/ogoxLw -->
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -67,4 +65,3 @@
             </div>
         </div>
 	</foreignObject>
-</svg>
